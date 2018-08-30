@@ -26,6 +26,7 @@ Description: Random Forester (RerF) is an algorithm developed by Tomita (2016)
 License: GPL-2
 URL: https://github.com/neurodata/R-RerF
 Imports: parallel, RcppZiggurat, utils, stats, dummies
+Suggests: testthat
 LinkingTo: Rcpp, RcppArmadillo
 SystemRequirements: GNU make
 ByteCompile: true

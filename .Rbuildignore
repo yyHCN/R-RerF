@@ -1,6 +1,9 @@
 ^README.html$
 ^README.Rmd$
+^CONTRIBUTING.md$
 ^travisTest$
 ^docs$
 ^\.travis\.yml$
 ^.*\\.gz$
+^.*\.Rproj$
+^\.Rproj\.user$
